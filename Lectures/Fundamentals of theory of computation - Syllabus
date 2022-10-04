@@ -1,0 +1,62 @@
+Fundamentals of theory of computation II Pr. 
+IP-18fSZEA2G 
+2022/23/1
+Department of Algorithms and Their Applications 
+ Tuesday 2pm-4pm, LÉ -1.62
+Thursday 10am-12pm, LD 1.819
+ 
+Instructor: Gábor Kolonits
+Office location: LD 2.708
+E-mail: kolomax@inf.elte.hu
+Office hours: Tuesday 10am-2pm
+
+Credit value of the course: 2+1
+
+Prerequisites: IP-18fSZEA1E
+
+Course materials: Slides uploaded into Canvas and Teams groups
+
+Course description: Introductory course for computational theory.
+ 
+Student Learning Outcomes: The student knows and can apply the general and specific mathematical, computing principles, facts, rules, relationships, and procedures that underpin the knowledge of the IT specialty.
+ 
+Expectations and Resources for Student Success: 
+No more than 3 missed practices AND
+2 successful tests, the total number of points reaching the minimum level of mark 2.
+
+In case of a missed or unsuccessful test, the student has an opportunity to retake one or both of the tests. A successful test may also be retaken in hope of a better grade.
+ 
+Course Management and Policies: Any kind of cooperation of students during the practice tests (unless clearly otherwise stated in the text of the exercise) is strictly prohibited and can result disqualification from the test.
+
+
+ 
+Assignments and Assessment Methods:
+
+Assignment, Assessment or activity	Percentage of grade or points	Due date
+  midterm test     	50% 	2022-10-11
+ endterm test	 50%	2022-11-24
+ 	 	 
+ 	 	 
+           	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+                                                                                                                       
+Course Grading For both tests a minimum of 30% of points needed to be declared successful. Grading is based on total points.  Less than 40%: mark 1, at least 40%, but less than 55%: mark 2, at least 55%, but less than 70%: mark 3, at least 70%, but less than 85%: mark 4, at least 85%: mark 5.
+
+Course Schedule
+
+Week, date	Topic	Preparation for class	Assignments due
+ 1	Propositional logic	 	 
+ 2	Propositional logic, first order logic	 	 
+ 3	First order logic, asymptotic bounds of functions	 	 
+ 4	Asymptotic bounds of functions	 	 
+ 5	Discussion of the midterm test	 	 
+ 6	Turing machines		
+ 7	Turing machines, multitape TMs	 	 
+ 8	Multitape TMs, computing TMs	 	 
+ 9	Computing TMs, non-deterministic TMs	 	 
+ 10	Non-deterministic TMs	 	 
+ 11	Discussion of the endterm test	 	 
+ 12	Reduction, undecidability, NP-completeness		
+ 	 	 	 
